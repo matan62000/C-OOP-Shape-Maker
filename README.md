@@ -69,5 +69,3 @@ Working on this project strengthened my understanding of C++ and object-oriented
 **Matan Buhbut**
 
 B.Sc. Software Engineering Student
-
-Developed as part of my Object-Oriented Programming coursework.
