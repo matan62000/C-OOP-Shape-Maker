@@ -1,6 +1,6 @@
 # C++ OOP Shape Maker
 
-A console-based shape management application developed in C++ as part of an Object-Oriented Programming course.
+A console-based shape management application developed in C++ as part of an Object-Oriented Programming training.
 
 The project focuses on implementing and applying core OOP principles through a system that creates, manages, and manipulates geometric shapes.
 
